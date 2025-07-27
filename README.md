@@ -249,7 +249,7 @@ If you use this work in your research, please cite:
   title={Fine-tuning LLMs for Sentiment Analysis: A Practical Comparison},
   author={Bhavani Shankar Y},
   year={2025},
-  url={https://github.com/yourusername/llm-sentiment-comparison}
+  url={https://github.com/ybshankar010/llm-finetuning}
 }
 ```
 
